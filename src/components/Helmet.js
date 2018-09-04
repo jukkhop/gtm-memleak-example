@@ -3,6 +3,7 @@ import { Helmet as ReactHelmet } from 'react-helmet';
 
 // Google Tag Manager is loaded here
 
+/* eslint-disable */
 const Helmet = () => (
   <ReactHelmet>
     <script>

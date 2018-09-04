@@ -31,7 +31,7 @@
   }
 }
 
-.App-intro ul {
+ul.App-intro {
   list-style-type: none;
   margin: auto;
   padding: 1rem;
